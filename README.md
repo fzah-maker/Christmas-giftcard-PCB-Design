@@ -5,8 +5,6 @@ PCB Design for JLCPCB Christmas event. This design is based on ATmega328p (UNO) 
 
 This PCB is design with EasyEDA and can be ordered at [JLCPCB.com](https://github.com/JLCPCBofficial)
 
-Top View
-![](PCB%20top.JPG)
+![Top View](PCB%20top.JPG)
 
-Bottom View
-![](PCB%20bottom.JPG)
+![Bottom View](PCB%20bottom.JPG)
